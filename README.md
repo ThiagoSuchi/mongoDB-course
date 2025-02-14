@@ -82,6 +82,5 @@ MongoDB é um banco de dados NoSQL orientado a documentos, conhecido por sua fle
 Para aprofundar seus conhecimentos no MongoDB, confira:
 - [Documentação Oficial](https://www.mongodb.com/docs/)
 - [MongoDB University](https://university.mongodb.com/)
-- [Curso Gratuito de MongoDB na Alura](https://www.alura.com.br/)
 
 Este README fornece uma visão geral para quem está começando com o MongoDB, mas há muito mais para explorar!
